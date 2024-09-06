@@ -5,5 +5,6 @@ int main() {
 
 scanf("%d", &age) ;
 printf("year %d",age);
+printf("わたしはABDUR RHAMANです");
 
 }
